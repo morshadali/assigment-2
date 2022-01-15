@@ -126,18 +126,19 @@
   align-items: center;
 }
 .button-low {
-        display: inline-flex;
-        height: 44px;
-        outline: none;
-        margin-left: 78%;
-        overflow: hidden;
-        font-weight: 800;
-        color: red;
-        cursor: pointer;
-        font-size: 20px;
-        background-color: green;
-        padding: 5px;
-    }
+    display: inline-flex;
+    height: 46px;
+    outline: none;
+    margin-left: 85%;
+    overflow: hidden;
+    font-weight: 800;
+    color: red;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: green;
+    padding: 7px;
+    margin-bottom: 41px;
+}
 
     /* footer */
 footer{
