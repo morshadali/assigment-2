@@ -90,3 +90,29 @@ font-size:20px;
 .button__icon{
     font-size: 1.5em;
 }
+/* products container */
+.products-container h1 {
+    font-size: 37px;
+    text-align: center;
+    padding-top: 73px;
+}
+.products{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.fa-star{
+    font-size:12px;
+}
+.fa-star.filled{
+    color: #FFC014;
+}
+.fas fa-star-half-alt{
+    color: #FFC014;
+}
+.product-title{
+
+}
+.rating{
+    display: flex;
+    align-items: center;
+}
